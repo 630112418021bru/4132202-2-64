@@ -8,7 +8,7 @@
 รายวิชา 4132202 เทคโนโลยีอินเทอรเน็ต
 
 Link
-[LAB1](https://github.com/khomsan115/4132202-2-64/tree/main/LAB1)
+[LAB1](https://github.com/630112418021bru/4132202-2-64/tree/main/lab1)
 
 Clone
 git clone https://github.com/630112418021bru/4132202-2-64.git
